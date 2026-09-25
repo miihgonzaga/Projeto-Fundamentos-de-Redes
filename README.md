@@ -93,8 +93,8 @@ Ao rodar o programa, são criadas duas pastas: `arquivos_servidor`, pasta com ar
 Foram realizados teste com diferentes tamanhos, nos formatos .txt e .jpeg, com o objetivo de observar a diferença na quantidade de pacotes enviados. 
 
 - Arquivo de teste `texto1.txt` (Texto de 10 linhas - 519 bytes)
-- Arquivo de teste `texto2.txt` (Texto de 30 linhas)
-- Arquivo de teste `texto3.txt` (Texto de 60 linhas)
+- Arquivo de teste `texto2.txt` (Texto de 30 linhas - 2219 bytes)
+- Arquivo de teste `texto3.txt` (Texto de 60 linhas - 5279 bytes)
 - Arquivo de teste `imagem1.txt` (Imagem de 11.735 bytes)
 - Arquivo de teste `imagem2.txt` (Imagem de 51.108 bytes)
 - Arquivo de teste `imagem3.txt` (Imagem de 208.415 bytes)
