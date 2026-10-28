@@ -1,4 +1,4 @@
-# Projeto de Redes 2026.2 - Parte 1
+# Projeto de Redes 2026.2 - Parte 2
 
 **Universidade Federal de Pernambuco - UFPE**
 
